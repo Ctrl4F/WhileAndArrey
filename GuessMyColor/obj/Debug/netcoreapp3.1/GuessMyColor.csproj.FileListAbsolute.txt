@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.exe
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.deps.json
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.dll
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\bin\Debug\netcoreapp3.1\GuessMyColor.pdb
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.dll
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.pdb
+C:\Users\opilane\source\repos\WhileAndArray\GuessMyColor\obj\Debug\netcoreapp3.1\GuessMyColor.genruntimeconfig.cache
